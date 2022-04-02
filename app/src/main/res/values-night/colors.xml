@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#053c8e</color>
+    <color name="colorSecondary">#874100</color>
+    <color name="buttonNumericBackground">#2e2d2d</color>
+    <color name="textColor">#ffffff</color>
+    <color name="keypadBackground">#202020</color>
+    <color name="appBackground">#181818</color>
+</resources>
